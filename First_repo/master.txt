@@ -1,0 +1,16 @@
+git init  - to initialize git repositry
+
+git add .  - wildcard char to add any no of file into your git repo.
+
+git commit -m "mssg"
+
+git status
+
+git log   - history
+
+git add remote origin Server_Repo_URL
+
+git push -u origin master
+
+git clone Server_Repo_URL
+
